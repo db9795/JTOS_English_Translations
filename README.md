@@ -12,7 +12,7 @@ Your folder path should look something like this:
 Now copy all `.tsv` translation files and the `font` folder into your `English` folder.
 That's it, you're ready to go!
 
-# Contribute
-If you find any mistakes or missing translations that are available in the English version or you can translate yourself, please open up an issue!
+# Contributing
+If you find any mistakes or missing translations that are available in the English version or you know the translation of, open up an issue or a pull request!
 
 
