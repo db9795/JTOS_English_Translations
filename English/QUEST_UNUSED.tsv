@@ -290,16 +290,16 @@ QUEST_UNUSED_20150717_000289	Upon opening the chest, fainted Petrifying Frost ap
 QUEST_UNUSED_20150717_000290	Talk to Wilhelmina Carriot	빌헬미나 캐리어트와 대화하세요	
 QUEST_UNUSED_20150717_000291	Obtain Ruklys' Army Seals and Parchments	루클리스의 부대 인장, 양피지 문서 구하기	
 QUEST_UNUSED_20150717_000292	대지의 요새에서 정보가 될 만한 물건들을 구하세요.	
-QUEST_UNUSED_20150729_000293	큰 일 날 뻔 했군요. 저는 큐폴 메일레 라고 합니다.{nl}이 곳에서 미쳐 안식에 들지 못한 석화된 영혼들을 인도하려고 왔어요.{nl}하지만 아까처럼 그런 석화서리가 언제 어디서 불어올 지 모르니 함부로 움직이기 어렵군요.	큐폴 메일레
-QUEST_UNUSED_20150729_000294	{nl}석화탐지기가 있기는 한데, 어떤 건 고장 난 거 같기도 해요..{nl}탐지기를 좀 점검 해 주시겠어요?	큐폴 메일레
-QUEST_UNUSED_20150729_000295	오래 전에는 마족과 여신들 사이에 미묘한 힘의 견제가 있어왔죠.{nl}서로의 영역을 침범하지 않는 한에서 그것이 지켜졌어요.{nl}그러나 어느 날 마족이 이런 지경의 석화 저주를 내렸지요.	큐폴 메일레
-QUEST_UNUSED_20150729_000296	석화 탐지기는 여러 곳에 설치 되어 있어요. {nl}아까 보셨던 첫 번째 탐지기는 작동을 잘 하는 것 같으니, 나머지를 점검 해 주세요.	큐폴 메일레
-QUEST_UNUSED_20150729_000297	탐지기가 작동을 잘 해 주었으면..	큐폴 메일레
-QUEST_UNUSED_20150729_000298	아, 그렇군요.{nl}두 개가 고장이 나 있다구요.	큐폴 메일레
-QUEST_UNUSED_20150729_000299	탐지기 작동의 문제는 왕국군에게 물어 보는 게 좋을 것 같아요.{nl}그들이 탐지기를 설치 했으니까요.{nl}왕국군 장교인 레티아를 찾아가면 뭔가 도움이 되겠죠?	큐폴 메일레
-QUEST_UNUSED_20150729_000300	마족은 이 일대에 석화 저주를 내렸고.. 여신들은 인간들을 구원하려고 했죠.{nl}하지만 서로의 일에 관여하지 않겠다는 암묵적인 룰을 잊었느냐며 마족들은 분개했고 다른 지역에...	큐폴 메일레
-QUEST_UNUSED_20150729_000301	{nl}아, 생각하기도 싫은 재앙을 내렸어요..{nl}여신들이 석화된 이 곳의 구원을 포기해야 할 만큼 엄청난 재앙이었죠..	큐폴 메일레
-QUEST_UNUSED_20150729_000302	레티아는 베르크티 광장에 있어요.{nl}음? 이미 알고 계시려나?	큐폴 메일레
+QUEST_UNUSED_20150729_000293	Kupole Meile	큐폴 메일레
+QUEST_UNUSED_20150729_000294	Kupole Meile	큐폴 메일레
+QUEST_UNUSED_20150729_000295	Kupole Meile	큐폴 메일레
+QUEST_UNUSED_20150729_000296	Kupole Meile	큐폴 메일레
+QUEST_UNUSED_20150729_000297	Kupole Meile	큐폴 메일레
+QUEST_UNUSED_20150729_000298	Kupole Meile	큐폴 메일레
+QUEST_UNUSED_20150729_000299	Kupole Meile	큐폴 메일레
+QUEST_UNUSED_20150729_000300	Kupole Meile	큐폴 메일레
+QUEST_UNUSED_20150729_000301	Kupole Meile	큐폴 메일레
+QUEST_UNUSED_20150729_000302	Kupole Meile	큐폴 메일레
 QUEST_UNUSED_20150729_000303	연안 요새 지역의 석화 탐지기가 고장났다구요?{nl}그건 이미 알고 있습니다. 그럴만도 합니다.	왕국군 레티아
 QUEST_UNUSED_20150729_000304	그런데 아직 도착하지 않았나요? 제가 지원병력을 그 쪽에 파견했는데요.{nl}고장난 탐지기를 수리하러 보낸 지가 좀 됐는데.. 어찌 된 일일까요..	왕국군 레티아
 QUEST_UNUSED_20150729_000305	{nl}한 번, 그들을 찾아 봐 주시겠습니까?	왕국군 레티아
@@ -308,18 +308,18 @@ QUEST_UNUSED_20150729_000307	연안요새의 입구 쪽에 석화서리가 자�
 QUEST_UNUSED_20150729_000308	지원 병력이 모두 당했군요.. 안타깝네요.. {nl}나중에 그들의 영혼도 인도해 주어야겠어요.	
 QUEST_UNUSED_20150729_000309	Okay. Anyways, please take those parts and fix the broken detector.{nl}We should do it, but please understand that we can't leave here.	네. 어쨌든 그 부품들을 들고 가서 고장난 탐지기들을 수리 해 주세요.{nl}저희가 할 일입니다만, 자리를 비울 수 없는 것을 이해해 주십시오.	왕국군 레티아
 QUEST_UNUSED_20150729_000310	그것이 그 부품들이군요.{nl}이제 수리하러 가셔야겠네요.{nl}석화 서리를 조심하세요.	
-QUEST_UNUSED_20150729_000311	석화 탐지기가 전부 정상으로 돌아오면 차분하게 영혼들을 안식으로 인도할 생각이예요.	큐폴 메일레
-QUEST_UNUSED_20150729_000312	그럼, 꼭 부탁 드리겠습니다.	큐폴 메일레
-QUEST_UNUSED_20150729_000313	오, 모두 정상 작동 하게 되었군요.{nl}정말 감사합니다.{nl}이제 안심하고 영혼들을 인도해야겠어요.	큐폴 메일레
-QUEST_UNUSED_20150729_000314	영혼들이 너무 많아 걱정이지만..{nl}차분히 한 분 씩 인도할 예정입니다.{nl}계시자님의 앞길에 여신의 은총이 가득하시길.	큐폴 메일레
-QUEST_UNUSED_20150729_000315	누구인가. 저리 가라.{nl}아.. 혹시 나를 도와줄 수 있다면..	쉬트리가일라
+QUEST_UNUSED_20150729_000311	Kupole Meile	큐폴 메일레
+QUEST_UNUSED_20150729_000312	Kupole Meile	큐폴 메일레
+QUEST_UNUSED_20150729_000313	Kupole Meile	큐폴 메일레
+QUEST_UNUSED_20150729_000314	Kupole Meile	큐폴 메일레
+QUEST_UNUSED_20150729_000315	Svitrigaila	쉬트리가일라
 QUEST_UNUSED_20150729_000316	사제 유타	
-QUEST_UNUSED_20150729_000317	우와. 이런 묘지에서 사람을 만날 줄은 몰랐어요.{nl}저는 제미나 여신님을 모시는 보코르에요. 사라진 제미나 여신님의 자취를 쫓아 이 곳까지 왔죠.{nl}	사제 유타
-QUEST_UNUSED_20150729_000318	모습을 감춘 제미나 여신께서 진리의 나무 교단을 축복했다고 하시기에 여기까지 달려왔는데{nl}막상 와보니까 시체들만 돌아다니고 있네요.{nl}심지어 이 시체들 제 힘으로 제어도 안되요. 의식에 방해가 되니 처치를 해야할 것 같은데..	사제 유타
-QUEST_UNUSED_20150729_000319	아, 정말요? 말 만으로도 감사하네요.{nl}사실 혼자서는 의식 준비도 좀 벅찼거든요.{nl}	사제 유타
-QUEST_UNUSED_20150729_000320	그럼 근처의 시체들을 처치해주세요.{nl}저는 그 동안 의식을 준비하고 여신님께 기도를 올릴게요.	사제 유타
-QUEST_UNUSED_20150729_000321	여기 오면 뭐라도 있을 까 했는데 보코르의 힘이 통하지 않는 시체라니..{nl}이런 건 처음 봐요. 어서 여신님을 찾아야 할텐데요..	사제 유타
-QUEST_UNUSED_20150729_000322	아, 돌아오셨군요. 덕분에 무사히 여신님께 기도를 올릴 수 있었어요.{nl}뭐.. 여느때 처럼 대답은 없으셨지만요..	사제 유타
+QUEST_UNUSED_20150729_000317	Priest Juta	사제 유타
+QUEST_UNUSED_20150729_000318	Priest Juta	사제 유타
+QUEST_UNUSED_20150729_000319	Priest Juta	사제 유타
+QUEST_UNUSED_20150729_000320	Priest Juta	사제 유타
+QUEST_UNUSED_20150729_000321	Priest Juta	사제 유타
+QUEST_UNUSED_20150729_000322	Priest Juta	사제 유타
 QUEST_UNUSED_20150729_000323	점검해 보겠다고 한다	QUEST_LV_0200_20150323_004339	調べてみる	조사해 보겠다고 한다	
 QUEST_UNUSED_20150729_000324	Signal	신호	
 QUEST_UNUSED_20150729_000325	Cutting the Tail (1)	꼬리자르기(1)	
@@ -442,7 +442,7 @@ QUEST_UNUSED_20151014_000441	The problem is occuring at Canyon Region 36_1.{nl}Y
 QUEST_UNUSED_20151014_000442	It seems that you've done well.{nl}It was a good decision for me to give the task to you.{nl}Okay then, I will help you from now on.	잘 해내신 모양입니다.{nl}당신에게 맡기길 잘 했다는 생각이 듭니다.{nl}그럼 이제 제가 당신을 돕도록 하겠습니다.	오라클 마스터
 QUEST_UNUSED_20151014_000443	Good. Take this object and go to Mochia Forest.{nl}When you find someone, talk naturally and you have to tell him the passwords.	좋소, 이 물건을 가지고 모치아 숲으로 가시오.{nl}그곳에서 접견인으로 보이는 사람을 발견하거든 일단 자연스럽게 대화를 하다가 그의 질문에 맞게 암구호를 말해야 하오.	몽크 마스터
 QUEST_UNUSED_20151014_000444	Demon Svitrigaila	마족 쉬트리가일라	
-QUEST_UNUSED_20151014_000445	Finally... You have come.{nl}Someone else besides miss Giltine...{nl}	드디어.. 올 것이 왔군.{nl}날 길티네님의 곁으로 보내줄 이가..{nl}	QUEST_UNUSED_20150729_000315	누구인가. 저리 가라.{nl}아.. 혹시 나를 도와줄 수 있다면..	마족 쉬트리가일라
+QUEST_UNUSED_20151014_000445	Finally... You have come.{nl}Someone else besides miss Giltine...{nl}	드디어.. 올 것이 왔군.{nl}날 길티네님의 곁으로 보내줄 이가..{nl}	QUEST_UNUSED_20150729_000315	Demon Svitrigaila	마족 쉬트리가일라
 QUEST_UNUSED_20151014_000446	I have a request to you.{nl}Lead me to a death.	네게 부탁이 있다.{nl}날 죽음으로 이끌어 다오.	마족 쉬트리가일라
 QUEST_UNUSED_20151014_000447	Writings on the Pillar	기둥에 적힌 글귀	
 QUEST_UNUSED_20151014_000448	[The Life of Cleros]	[클레로스 전기]	기둥에 적힌 글귀
@@ -553,14 +553,14 @@ QUEST_UNUSED_20151014_000552	The Knights of Kaliss wants to know if something is
 QUEST_UNUSED_20151014_000553	Ah, of course, I am going to go look for the treasure of Ruklys.{nl}The treasure is from the goddesses so it must be something amazing.{nl}	아, 물론 난 루클리스의 보물을 찾으러 갈 거야.{nl}분명 여신께 받은 것이니 엄청난 물건일 거라고.{nl}	도굴꾼 아만다
 QUEST_UNUSED_20151014_000554	Anyways, you are going to be with me right?{nl}Please first gather the records from Ruklys Era at the gathering place.{nl}In order to break Gargoyle, we need that.	어쨌든 나와 함께 하는 거지?{nl}일단 집결지에 있는 루클리스 시대의 기록물들을 모아줘.{nl}저길 지키고 있는 가고일을 뚫을려면 그게 필요하거든.	도굴꾼 아만다
 QUEST_UNUSED_20151014_000555	Bokor Juta	보코르 유타	
-QUEST_UNUSED_20151014_000556	I'm looking for Goddess Zemyna.{nl}Everyone knows the goddess is missing.{nl}	전 제미나 여신의 행방을 찾고 있어요.{nl}여신께서 행방불명되셨다는건 누구나 아는 이야기지요.{nl}	QUEST_UNUSED_20150729_000317	우와. 이런 묘지에서 사람을 만날 줄은 몰랐어요.{nl}저는 제미나 여신님을 모시는 보코르에요. 사라진 제미나 여신님의 자취를 쫓아 이 곳까지 왔죠.{nl}	보코르 유타
-QUEST_UNUSED_20151014_000557	I've come here after hearing that the goddesses blessed the Order of the Tree of Truth...{nl}I can only see the deads.{nl}	여신께서 진리의 나무 교단을 축복했단 소문을 듣고 여기까지 왔는데.. {nl}망자들만 가득하네요.{nl}	QUEST_UNUSED_20150729_000318	모습을 감춘 제미나 여신께서 진리의 나무 교단을 축복했다고 하시기에 여기까지 달려왔는데{nl}막상 와보니까 시체들만 돌아다니고 있네요.{nl}심지어 이 시체들 제 힘으로 제어도 안되요. 의식에 방해가 되니 처치를 해야할 것 같은데..	보코르 유타
+QUEST_UNUSED_20151014_000556	I'm looking for Goddess Zemyna.{nl}Everyone knows the goddess is missing.{nl}	전 제미나 여신의 행방을 찾고 있어요.{nl}여신께서 행방불명되셨다는건 누구나 아는 이야기지요.{nl}	QUEST_UNUSED_20150729_000317	Bokor Juta	보코르 유타
+QUEST_UNUSED_20151014_000557	I've come here after hearing that the goddesses blessed the Order of the Tree of Truth...{nl}I can only see the deads.{nl}	여신께서 진리의 나무 교단을 축복했단 소문을 듣고 여기까지 왔는데.. {nl}망자들만 가득하네요.{nl}	QUEST_UNUSED_20150729_000318	Bokor Juta	보코르 유타
 QUEST_UNUSED_20151014_000558	If you are going to stay in this chamber, can you help me?{nl}I can't do anything with my power and they come at me whenever they hear my prayers.{nl}	혹시 이 묘역에 계속 계실 거라면 절 좀 도와주시겠어요?{nl}이 망자들은 제 힘으로도 어떻게 안되고 기도 소리만 들으면 마구 달려들거든요.{nl}	보코르 유타
 QUEST_UNUSED_20151014_000559	I should pray to the goddesses to check whether she is around here.	여신께 기도를 올려야 이 근처에 계시는지라도 확인이 될 텐데 말예요.	보코르 유타
-QUEST_UNUSED_20151014_000560	Really? Thank you for your words.{nl}Prayers were hard to do alone.{nl}	정말요? 말 만으로도 감사하네요.{nl}사실 혼자서는 기도마저도 힘들었거든요.{nl}	QUEST_UNUSED_20150729_000319	아, 정말요? 말 만으로도 감사하네요.{nl}사실 혼자서는 의식 준비도 좀 벅찼거든요.{nl}	보코르 유타
-QUEST_UNUSED_20151014_000561	Then I am counting on you for the deads at the casket room.{nl}I will pray to the goddess in the meantime.	그럼 입관실의 망자들을 부탁드릴게요.{nl}그 동안 전 여신이 어디 계시는지 기도를 올려 보겠어요.	QUEST_UNUSED_20150729_000320	그럼 근처의 시체들을 처치해주세요.{nl}저는 그 동안 의식을 준비하고 여신님께 기도를 올릴게요.	보코르 유타
-QUEST_UNUSED_20151014_000562	I thought I would be able to find the whereabouts of Goddess Zemyna here, but this place is full of the dead..{nl}I've never seen this. We should look for Zemyna fast.	여기라면 제미나 여신의 행방을 찾을 수 있을까 했는데 망자들만 가득하다니..{nl}이런 건 처음 봐요. 어서 제미나님을 찾아야 할텐데요.	QUEST_UNUSED_20150729_000321	여기 오면 뭐라도 있을 까 했는데 보코르의 힘이 통하지 않는 시체라니..{nl}이런 건 처음 봐요. 어서 여신님을 찾아야 할텐데요..	보코르 유타
-QUEST_UNUSED_20151014_000563	Ah, so you've returned. {nl}Because of you, the deads didn't attack me while I was praying.{nl}	아, 돌아오셨군요. {nl}덕분에 기도를 올리는 동안은 시체들이 덤벼들진 않았어요.{nl}	QUEST_UNUSED_20150729_000322	아, 돌아오셨군요. 덕분에 무사히 여신님께 기도를 올릴 수 있었어요.{nl}뭐.. 여느때 처럼 대답은 없으셨지만요..	보코르 유타
+QUEST_UNUSED_20151014_000560	Really? Thank you for your words.{nl}Prayers were hard to do alone.{nl}	정말요? 말 만으로도 감사하네요.{nl}사실 혼자서는 기도마저도 힘들었거든요.{nl}	QUEST_UNUSED_20150729_000319	Bokor Juta	보코르 유타
+QUEST_UNUSED_20151014_000561	Then I am counting on you for the deads at the casket room.{nl}I will pray to the goddess in the meantime.	그럼 입관실의 망자들을 부탁드릴게요.{nl}그 동안 전 여신이 어디 계시는지 기도를 올려 보겠어요.	QUEST_UNUSED_20150729_000320	Bokor Juta	보코르 유타
+QUEST_UNUSED_20151014_000562	I thought I would be able to find the whereabouts of Goddess Zemyna here, but this place is full of the dead..{nl}I've never seen this. We should look for Zemyna fast.	여기라면 제미나 여신의 행방을 찾을 수 있을까 했는데 망자들만 가득하다니..{nl}이런 건 처음 봐요. 어서 제미나님을 찾아야 할텐데요.	QUEST_UNUSED_20150729_000321	Bokor Juta	보코르 유타
+QUEST_UNUSED_20151014_000563	Ah, so you've returned. {nl}Because of you, the deads didn't attack me while I was praying.{nl}	아, 돌아오셨군요. {nl}덕분에 기도를 올리는 동안은 시체들이 덤벼들진 않았어요.{nl}	QUEST_UNUSED_20150729_000322	Bokor Juta	보코르 유타
 QUEST_UNUSED_20151014_000564	But, even here, the prayer didn't reach the goddess.	하지만 여기서도 여신께 기도는 닿지 않았나봐요.	보코르 유타
 QUEST_UNUSED_20151014_000565	ドルイド レヤ	드루이드 레야	
 QUEST_UNUSED_20151014_000566	Hey, you.{nl}What are you doing here in this far off forest?{nl}Well, it doesn't matter. Whoever you are, can you give me a hand?	이봐요. 당신.{nl}누구길래 이렇게 인적 드문 숲을 찾아온거죠?{nl}아 됐어요. 누구라도 상관없어. 절 좀 도와주세요.{nl}	드루이드 레야
@@ -994,7 +994,7 @@ QUEST_UNUSED_20151028_000993	Good. Barte may have seen something.{nl}She recentl
 QUEST_UNUSED_20151028_000994	How about you ask her about Albinas?{nl}	그녀에게 알비나스라는 사람에 대해 물어보고 오시면 어떨까요?{nl}	QUEST_LV_0100_20151014_008452	彼にアルビナスという人物について聞いてみてはどうでしょうか？{nl}	그에게 알비나스라는 사람에 대해 물어보면 어떨까요?{nl}	게다스
 QUEST_UNUSED_20151028_000995	Albinas?{nl}I saw someone matching your description near Majiva Grave Field.{nl}	알비나스요?{nl}음.. 당신이 말한 인상착의와 비슷한 사람을 마지바 묘지에서 보긴 했어요.{nl}	QUEST_LV_0100_20151014_008459	アルビナス？{nl}うーん…あなたが言った背格好に似た人なら見かけましたよ。{nl}	알비나스요?{nl}음.. 당신이 말한 인상착의와 비슷한 사람을 보긴 했어요.{nl}	바르테
 QUEST_UNUSED_20151028_000996	When you go back to Majiva Grave Field, that leather may be still there.{nl}I... even if the goddesses tell me to go, I can't since I am too scared.	마지바 묘지에 다시 가면 그 가죽이 남아 있을지도 몰라요.{nl}전.. 여신께서 가라 하셔도 무서워서 도저히 못가겠네요.	바르테
-QUEST_UNUSED_20151028_000997	What's the matter?{nl}I can't think anyone who would use that pattern except for the servant of Baiga.{nl}	도대체 이게 무슨 일이죠?{nl}저런 문양을 쓰는 건 바이가의 하수인 말곤 생각할 수 없어요.{nl}	QUEST_LV_0100_20151014_008470	一体どういうことなんでしょうか？{nl}こんな紋様を入ってるものを持っているのはバイガの手下以外にいないです…。{nl}	도대체 이게 무슨 일일까요.{nl}저런 문양을 쓰는 건 바이가의 하수인 말곤 생각할 수 없어요.{nl}	바르테
+QUEST_UNUSED_20151028_000997	What's the matter?{nl}I can't think anyone who would use that pattern except for the servant of Baiga.{nl}	도대체 이게 무슨 일이죠?{nl}저런 문양을 쓰는 건 바이가의 하수인 말곤 생각할 수 없어요.{nl}	QUEST_LV_0100_20151014_008470	一体どういうことなんでしょうか？{nl}こんな紋様を入ってるものを持っているのはヴァイガの手下以外にいないです…。{nl}	도대체 이게 무슨 일일까요.{nl}저런 문양을 쓰는 건 바이가의 하수인 말곤 생각할 수 없어요.{nl}	바르테
 QUEST_UNUSED_20151028_000998	We better let other people know this fast.{nl}You let Gedas know!{nl}	이건 빨리 사람들에게 알려야 할 것 같아요.{nl}당신은 게다스에게 알려주세요!{nl}	QUEST_LV_0100_20151014_008471	これは皆にも伝えなければなりません！{nl}あなたはゲダスに伝えてください！{nl}	이건 사람들에게 알려야 될 것 같아요!{nl}당신은 게다스에게 알려주세요!{nl}	바르테
 QUEST_UNUSED_20151028_000999	Please, save Fabijus!{nl}Ah, before that, we better go back to Nestospa!{nl}	제발, 파비유스를 구해 주세요!{nl}아, 그 전에 네스토스파에게 들르는 게 좋겠어요!{nl}	QUEST_LV_0100_20151014_008475	急いでファビユスのところへ行ってください！{nl}ああ、その前にネストス派の方々にも伝えてくださいませんか？{nl}	서둘러서 파비유스에게 가 주세요!{nl}아, 그 전에 네스토스파에게 들르는 게 좋겠어요!{nl}	게다스
 QUEST_UNUSED_20151028_001000	This holy water, please take it.{nl}You will get at least one chance of using it on the demons.{nl}	여기 성수, 이걸 가져가세요.{nl}한 번 정도는 마족에게 크게 본때를 보일 수 있을 겁니다.	QUEST_LV_0100_20151014_008478	この聖水を持って行ってください。{nl}先手を取るくらいの効果はありますから…。	여기 성수, 이걸 가져가세요.{nl}한 번 정도는 크게 한 방을 먹일 수 있을 겁니다.	에뒤나스
